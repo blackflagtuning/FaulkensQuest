@@ -1,2 +1,2 @@
 # Faulkens Terminal
-One level text based object oriented C++ game.
+One level text based object oriented Python game.
